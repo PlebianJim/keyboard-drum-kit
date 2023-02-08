@@ -1,7 +1,7 @@
 html {
     font-size: 10px;
-    background: url(images/background.jpg);
     background-size: cover;
+    background-image: url(images/background.jpg);
 }
 
 body,html {
